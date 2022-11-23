@@ -1,6 +1,6 @@
 # Shape Payments
 
-![Logo](img/logo.png)
+![Logo](/profile/img/logo.png)
 
 A software product that is targeted for payment companies (Payment Facilitators, Accountants, etc.). 
 
